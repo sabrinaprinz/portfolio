@@ -8,9 +8,7 @@
 
 /* sm */
 @media (min-width: 768px) /* Breite beträgt mindestens 768px */ and (max-width: 991px) {
-  .starter h1 {
-    font-size: 20px;
-  }
+  
 }
 
 
@@ -19,8 +17,8 @@
 
 @media only screen and (max-width: 767px) {
   .starter h1 {
-    font-size: 60px;
-    line-height: 65px;
+    font-size: 45px;
+    line-height: 50px;
     text-align: left;
     padding-bottom: 10vh;
     padding-left: 50px;
