@@ -42,7 +42,11 @@ body {
   text-align: left;
   padding-bottom: 10vh;
   padding-left: 50px;
-  padding-right: 50px;
+  padding-right: 100px;
+}
+
+mark {
+  background-color: rgb(210,250,0);
 }
 
 .info {

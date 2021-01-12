@@ -2,7 +2,6 @@
 @media (min-width: 992px) /* Breite beträgt mindestens 992px */ and (max-width: 1199px) {
 
 
-
 }
 
 
@@ -15,7 +14,7 @@
 /* xs */
 
 
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 400px) {
   .starter h1 {
     font-weight: 300;
     font-size: 45px;
@@ -23,6 +22,6 @@
     text-align: left;
     padding-bottom: 10vh;
     padding-left: 50px;
-    padding-right: 50px;
+    padding-right: 100px;
   }
 }
