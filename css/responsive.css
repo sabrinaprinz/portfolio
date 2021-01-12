@@ -1,0 +1,29 @@
+/* md */
+@media (min-width: 992px) /* Breite beträgt mindestens 992px */ and (max-width: 1199px) {
+
+
+
+}
+
+
+/* sm */
+@media (min-width: 768px) /* Breite beträgt mindestens 768px */ and (max-width: 991px) {
+  .starter h1 {
+    font-size: 20px;
+  }
+}
+
+
+/* xs */
+
+
+@media only screen and (max-width: 767px) {
+  .starter h1 {
+    font-size: 60px;
+    line-height: 65px;
+    text-align: left;
+    padding-bottom: 10vh;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
