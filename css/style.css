@@ -20,7 +20,7 @@ body {
   background-size: cover;
   background-position: center top;
   height: 100vh;
-  width: 100%;
+  width: 100vw;
   background-repeat: no-repeat;
 }
 
@@ -102,7 +102,7 @@ body {
 .menubackground {
   width: 100vw;
   height: 100vh;
-  position: absolute;
+  position: relative;
   background-color: black;
   visibility: hidden;
 }
