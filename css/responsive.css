@@ -25,4 +25,13 @@
     padding-left: 50px;
     padding-right: 100px;
   }
+
+  .info {
+    bottom: 40px;
+    width: 80%;
+  }
+
+  .pfeil {
+    bottom: 104px;
+  }
 }
