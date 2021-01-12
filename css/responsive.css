@@ -34,4 +34,20 @@
   .pfeil {
     bottom: 104px;
   }
+
+  .nav{
+    top: 20px;
+    right: 20px;
+  }
+
+  .change .nav {
+    top: 20px;
+    right: 20px;
+  }
+
+  .menubackground a {
+    font-weight: 200;
+    font-size: 25px;
+    margin-top: calc(45vh - 40px);
+  }
 }
