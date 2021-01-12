@@ -109,11 +109,13 @@ mark {
   position: relative;
   background-color: black;
   visibility: hidden;
+  display: none;
 }
 
 .change .menubackground {
   visibility: visible;
   position: relative;
+  display: block;
 }
 
 .menubackground a {
